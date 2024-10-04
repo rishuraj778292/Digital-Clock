@@ -92,7 +92,7 @@ body {
     /* height: 90%; */
     width: 20%;
     aspect-ratio: 1/1;
-    border: 5px solid #664343;
+    border: 0.1em solid #664343;
     margin: 10px;
     text-align: center;
     border-radius: 10px;
